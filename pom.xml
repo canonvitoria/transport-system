@@ -11,6 +11,10 @@
 	<groupId>com.canonvitoria</groupId>
 	<artifactId>transport-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>test</module>
+	</modules>
 	<name>transport-system</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
